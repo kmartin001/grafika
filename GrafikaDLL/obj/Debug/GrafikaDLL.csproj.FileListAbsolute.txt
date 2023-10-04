@@ -1,0 +1,18 @@
+C:\Temp\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\GrafikaDLL\bin\Debug\GrafikaDLL.pdb
+C:\Temp\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.AssemblyReference.cache
+C:\Temp\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.CoreCompileInputs.cache
+C:\Temp\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\GrafikaDLL\obj\Debug\GrafikaDLL.pdb
+D:\EKKE\GrafikaDLL\bin\Debug\GrafikaDLL.dll
+D:\EKKE\GrafikaDLL\bin\Debug\GrafikaDLL.pdb
+D:\EKKE\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.AssemblyReference.cache
+D:\EKKE\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.CoreCompileInputs.cache
+D:\EKKE\GrafikaDLL\obj\Debug\GrafikaDLL.dll
+D:\EKKE\GrafikaDLL\obj\Debug\GrafikaDLL.pdb
+D:\EKKE\Bemutató\GrafikaDLL\bin\Debug\GrafikaDLL.dll
+D:\EKKE\Bemutató\GrafikaDLL\bin\Debug\GrafikaDLL.pdb
+D:\EKKE\Bemutató\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.AssemblyReference.cache
+D:\EKKE\Bemutató\GrafikaDLL\obj\Debug\GrafikaDLL.csproj.CoreCompileInputs.cache
+D:\EKKE\Bemutató\GrafikaDLL\obj\Debug\GrafikaDLL.dll
+D:\EKKE\Bemutató\GrafikaDLL\obj\Debug\GrafikaDLL.pdb
