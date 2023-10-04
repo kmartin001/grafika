@@ -1,0 +1,27 @@
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.pdb
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.pdb
+D:\EKKE\Bemutató\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
+D:\EKKE\Bemutató\GrafikaAlap\bin\Debug\GrafikaAlap.exe
+D:\EKKE\Bemutató\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
+D:\EKKE\Bemutató\GrafikaAlap\bin\Debug\GrafikaDLL.dll
+D:\EKKE\Bemutató\GrafikaAlap\bin\Debug\GrafikaDLL.pdb
+D:\EKKE\Bemutató\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+D:\EKKE\Bemutató\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.SuggestedBindingRedirects.cache
+D:\EKKE\Bemutató\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
+D:\EKKE\Bemutató\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
+D:\EKKE\Bemutató\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+D:\EKKE\Bemutató\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+D:\EKKE\Bemutató\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CopyComplete
+D:\EKKE\Bemutató\GrafikaAlap\obj\Debug\GrafikaAlap.exe
+D:\EKKE\Bemutató\GrafikaAlap\obj\Debug\GrafikaAlap.pdb
